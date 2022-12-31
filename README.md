@@ -1,6 +1,9 @@
 # 💫 About Me:
 Hi, my name is Mona , .NET Developer<br>with over 1 years .<br><br>
-
+Graduated from computer & Information Science with grade Excellont with honor<br>
+Ranked 3rd <br>
+Trainee at ITI 9 Month
+Track:Professional Web And BI Intake 43 ,Ismailia Branch
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mona-abdelmonem-35453b216/) 
