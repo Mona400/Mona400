@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, my name is Mona , .NET Developer<br>with over 1 years .<br><br>
+Hi, my name is Mona<br><br>
 Graduated from computer & Information Science with grade Excellent with honor<br>
 Ranked 3rd <br>
 Trainee at ITI 9 Month
