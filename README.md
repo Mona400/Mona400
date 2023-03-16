@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi, my name is Mona<br><br>
 Graduated from computer & Information Science with grade Excellent with honor<br>
-Ranked 3rd <br>
+<h1>Ranked 3rd</h1> <br>
 Trainee at ITI 9 Month
 Track:Professional Web And BI Intake 43 ,Ismailia Branch
 
