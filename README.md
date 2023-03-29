@@ -1,8 +1,8 @@
 # 💫 About Me:
 <h1>Hi, my name is Mona</h1><br><br>
 Graduated from computer & Information Science 2022 with grade<h3>Excellent with honor</h3>
-<h4>Ranked 3rd</h4> <br>
-<h4>GPA 4</h4> <br>
+<h4>Ranked 3rd</h4>
+<h4>GPA 4</h4> 
 Trainee at ITI 9 Month
 Track:Professional Web And BI Intake 43 ,Ismailia Branch
 
