@@ -4,9 +4,10 @@ Graduated from computer & Information Science 2022 with grade<h3>Excellent with 
 <h4>Ranked 3rd</h4>
 <h4>GPA 4</h4> 
 Trainee at ITI 9 Month
+<br>
 Track:Professional Web And BI Intake 43 ,Ismailia Branch
+<br>
 📫 You can contact me at  monasallam400@gmail.com
-
 
 ## 🛠 Skills
 OOP, C#, Net Core , JS, TS, API , .NET, Angular ,LINQ ,Entityframework, SQL SERVER
