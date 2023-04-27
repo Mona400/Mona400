@@ -1,12 +1,13 @@
 # 💫 About Me:
-<h1>Hi, my name is Mona</h1><br><br>
+<h1>Hi, my name is Mona</h1><br>
 Graduated from computer & Information Science 2022 with grade<h3>Excellent with honor</h3>
 <h4>Ranked 3rd</h4>
-
 Trainee at ITI 9 Month
 <br>
 Track:Professional Web And BI Intake 43 ,Ismailia Branch
 <br>
+Open to work as Junoir Back End 
+[CV](https://drive.google.com/file/d/1KULdsV6yHTMHSohGVgbsWBechnsxwCC0/view?usp=sharing)
 📫 You can contact me at  monasallam400@gmail.com
 
 ## 🛠 Skills
