@@ -7,7 +7,7 @@ Trainee at ITI 9 Month
 Track:Professional Web And BI Intake 43 ,Ismailia Branch
 <br>
 Open to work as Junoir Back End 
-[CV](http://www.example.com](https://drive.google.com/file/d/1KULdsV6yHTMHSohGVgbsWBechnsxwCC0/view?usp=sharing)<br>
+
 📫 You can contact me at  monasallam400@gmail.com
 
 ## 🛠 Skills
