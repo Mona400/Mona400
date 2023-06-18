@@ -8,7 +8,7 @@ Track:Professional Web And BI Intake 43 ,Ismailia Branch
 <br>
 Open to work as Junoir Back End 
 <br>
-[ CV ] (https://drive.google.com/file/d/1IBP4z2J7drF9vecmM9nUmDXpgPy1PZzo/view?usp=sharing) 
+[CV](https://drive.google.com/file/d/1IBP4z2J7drF9vecmM9nUmDXpgPy1PZzo/view?usp=sharing) 
 
 <br>
 📫 You can contact me at  monasallam400@gmail.com
