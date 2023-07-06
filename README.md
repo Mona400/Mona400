@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/xT0xezQGU5xCDJuCPe/giphy.gif" alt="coding" width="140"/>
+  <img src="https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif" alt="coding" width="140"/>
 </div>
 <div id="badges" align='center'>
   <a href="https://www.linkedin.com/in/mona-abdelmonem400/">
