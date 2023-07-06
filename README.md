@@ -1,7 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/oVuwRIdUdXwR2/giphy.gif" alt="coding" width="140"/>
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="100" height="100"/>
+  <img src="https://media.giphy.com/media/xT0xezQGU5xCDJuCPe/giphy.gif" alt="coding" width="140"/>
 </div>
 <div id="badges" align='center'>
   <a href="https://www.linkedin.com/in/mona-abdelmonem400/">
