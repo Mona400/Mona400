@@ -23,7 +23,7 @@ I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :zap: In my free time, I solve problems on LeetCode and read tech articles.
 
-- :mailbox:How to reach me:  [![Linkedin Badge](https://www.linkedin.com/in/mona-abdelmonem400/)]  OR  **monaabdelmonem400@gmail.com** 
+- :mailbox:How to reach me:  [![Linkedin Badge]](https://www.linkedin.com/in/mona-abdelmonem400/)  OR  **monaabdelmonem400@gmail.com** 
 
 ---
 
