@@ -34,11 +34,9 @@ I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET Core" alt=".NET Core" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title=".NET Framework" alt=".NET Framework" width="50" height="50"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/efcore/efcore-original.svg" title="Entity Framework Core" alt="Entity Framework Core" width="50"height="50"/>&nbsp;
-  <img src="[https://github.com/devicons/devicon/blob/master/icons/linqpad/linqpad-plain.svg](https://www.bing.com/images/search?view=detailV2&ccid=Yjy4X62F&id=415F0C4EBB27C7D8884B120DAF193172D332B504&thid=OIP.Yjy4X62FKjEOluAePz-0WAAAAA&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.623cb85fad852a310e96e01e3f3fb458%3frik%3dBLUy03IxGa8NEg%26riu%3dhttp%253a%252f%252fglobedia.com%252fimagenes%252fnoticias%252f2012%252f9%252f28%252flinq-parte-teorica_1_1395519.jpg%26ehk%3drzd4VbfkrPQttK6y0vqz%252b1VFf9w5ZBa4R99CLIWZGoc%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=160&expw=240&q=linq+icon+in+github&simid=608033066029092843&FORM=IRPRST&ck=A1AD3A76ED76E7FAB8E8BDB1F75F830C&selectedIndex=12&ajaxhist=0&ajaxserp=0)" title="LINQ" alt="LINQ" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQL Server" alt="SQL Server" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQL Server" alt="SQL Server" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>
 </div>
