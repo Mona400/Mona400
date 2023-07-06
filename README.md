@@ -7,9 +7,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<div align='center'>
- <img src="https://komarev.com/ghpvc/?username=Mona400&style=flat-square&color=blue" alt="" />
-  </div>
 
 
 ---
@@ -51,3 +48,6 @@ I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mona400&theme=neon-dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mona400&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align='center'>
+ <img src="https://komarev.com/ghpvc/?username=Mona400&style=flat-square&color=blue" alt="" />
+  </div>
