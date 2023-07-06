@@ -34,8 +34,8 @@ I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET Core" alt=".NET Core" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title=".NET Framework" alt=".NET Framework" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/efcore/efcore-original.svg" title="Entity Framework Core" alt="Entity Framework Core" width="50" height="50"/>&nbsp;height="50"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/linqpad/linqpad-plain.svg" title="LINQ" alt="LINQ" width="50" height="50"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/efcore/efcore-original.svg" title="Entity Framework Core" alt="Entity Framework Core" width="50"height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linqpad/linqpad-plain.svg" title="LINQ" alt="LINQ" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQL Server" alt="SQL Server" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="50" height="50"/>&nbsp;
