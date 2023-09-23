@@ -50,9 +50,10 @@ I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
         "Database Systems",                     "JSON Web Token (JWT)",     "Language Integrated Query (LINQ)",
         ".NET Core",                            "ASP.NET Core MVC",         "Microsoft Azure",
         "Software Engineering Practices",       "Clean Code",               "Unit Testing",
-        "Microservices",                        "Cloud Computing",          "Problem Solving",
+        "Clean Architecture",                   "Cloud Computing",          "Problem Solving",
         "Object-Oriented Programming (OOP)",    "Data Structures",          "Algorithms",
-        "SQL",                                  "Git",                     
+        "SQL",                                  "Git",                      "CQRS",
+        "SOLD"
     ]
 }
 ```
