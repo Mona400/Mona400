@@ -41,7 +41,21 @@ I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>
 </div>
 ---
+<h1 align="center">Skills</h1>
 
+```json
+{
+    "skills": [
+        "C#",                                   "ASP.NET Core Web API",     "Entity Framework Core",
+        "Database Systems",                     "JSON Web Token (JWT)",     "Language Integrated Query (LINQ)",
+        ".NET Core",                            "ASP.NET Core MVC",         "Microsoft Azure",
+        "Software Engineering Practices",       "Clean Code",               "Unit Testing",
+        "Microservices",                        "Cloud Computing",          "Problem Solving",
+        "Object-Oriented Programming (OOP)",    "Data Structures",          "Algorithms",
+        "SQL",                                  "Git",                     
+    ]
+}
+```
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mona400&theme=neon-dark)](https://git.io/streak-stats)
