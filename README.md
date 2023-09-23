@@ -15,7 +15,7 @@
 I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
 
 - :telescope: I graduated from ITI 9 Month (Information Technology Institute) Track Professinal Web & BI
-
+- :telescope: I graduated from Computer & Information Science Ranked 3th With Grade (Excellent With Honer)
 - :seedling: I’m currently learning **Angular & Clean architecture**
 
 - :zap: In my free time, I solve problems on LeetCode and read tech articles.
