@@ -12,9 +12,7 @@
   <a href="https://leetcode.com/CSMona/">
   <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
 </a>
-  <a href="https://leetcode.com/CSMona/">
-  <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/>
-</a>
+
 </div>
 
 
