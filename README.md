@@ -6,6 +6,9 @@
   <a href="https://www.linkedin.com/in/mona-abdelmonem400/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://www.youtube.com/channel/UCl1N9jvQe4i1iCfn6jnlU6w">
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
+</a>
 </div>
 
 
