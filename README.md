@@ -15,15 +15,11 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Software Engineer|| FinTech <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
+I am a Software Engineer|| FinTech   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
 - :seedling: Currently expanding my knowledge in AI and (LLMs)
 - :telescope: I graduated from ITI 9 Month (Information Technology Institute) Track Professinal Web & BI  InTake 43
 - :telescope: I graduated from Computer & Information Science Ranked 3rd out of ~276 students (Excellent With Honer) 2018 : 2022
-
-**
-
 - :zap: In my free time, I solve problems on LeetCode and read tech articles.
-
 - :mailbox:How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-Mona-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mona-abdelmonem400/)  OR  **monaabdelmonem400@gmail.com** 
 
 ---
