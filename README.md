@@ -15,11 +15,12 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
+I am a Software Engineer|| FinTech <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
+- :seedling: Currently expanding my knowledge in AI and (LLMs)
+- :telescope: I graduated from ITI 9 Month (Information Technology Institute) Track Professinal Web & BI  InTake 43
+- :telescope: I graduated from Computer & Information Science Ranked 3rd out of ~276 students (Excellent With Honer) 2018 : 2022
 
-- :telescope: I graduated from ITI 9 Month (Information Technology Institute) Track Professinal Web & BI  <<InTake 43>>
-- :telescope: I graduated from Computer & Information Science Ranked 3th With Grade (Excellent With Honer) <<2018 : 2022>>
-- :seedling: I’m currently learning **Angular & Clean architecture**
+**
 
 - :zap: In my free time, I solve problems on LeetCode and read tech articles.
 
